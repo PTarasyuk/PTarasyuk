@@ -16,7 +16,7 @@
 <img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PTarasyuk&layout=compact&&langs_count=8"/>
 </div>
 
-### GitHub trophy
+### GitHub trophy 🏆
 
 <img src="https://github-profile-trophy.vercel.app/?username=PTarasyuk&theme=juicyfresh&no-bg=true" />
 
