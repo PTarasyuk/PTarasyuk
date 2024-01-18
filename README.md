@@ -14,6 +14,10 @@
 <img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PTarasyuk&layout=compact&&langs_count=8"/>
 </div>
 
+### GitHub trophy
+
+<img src="https://github-profile-trophy.vercel.app/?username=PTarasyuk&theme=juicyfresh&no-bg=true" />
+
 ### Profile views counter 👁️‍🗨️
 
 [![Tarasyuk profile views](https://u8views.com/api/v1/github/profiles/57711130/views/day-week-month-total-count.svg)](https://u8views.com/github/PTarasyuk)
