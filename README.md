@@ -7,6 +7,13 @@
 [![WhatsApp Badge](https://img.shields.io/badge/-+380_50_911_1257-075E54?style=flat&labelColor=075E54&logo=whatsapp&logoColor=white)](https://wa.me/380509111257)
 [![Telegram Badge](https://img.shields.io/badge/-@pavlo__tarasiuk-0088cc?style=flat&labelColor=0088cc&logo=telegram&logoColor=white)](https://t.me/pavlo_tarasiuk)
 
+### My stats ⭐
+
+<div align="center">
+<img alt="Maksym's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=MaksymRudnyi&show_icons=true&theme=transparent"/>
+<img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaksymRudnyi&layout=compact&&langs_count=8"/>
+</div>
+
 ### Profile views counter 👁️‍🗨️
 
 [![Tarasyuk profile views](https://u8views.com/api/v1/github/profiles/57711130/views/day-week-month-total-count.svg)](https://u8views.com/github/PTarasyuk)
