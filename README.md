@@ -2,7 +2,7 @@
 
 :mailbox: Reach me out!
 
-[![Linkedin Badge](https://img.shields.io/badge/-Pavlo-Tarasiuk-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pavlo-tarasiuk/)
+[![Linkedin Badge](https://img.shields.io/badge/-Pavlo_Tarasiuk-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pavlo-tarasiuk/)
 
 ### Profile views counter 👁️‍🗨️
 
