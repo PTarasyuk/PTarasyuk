@@ -16,7 +16,7 @@
 
 ### GitHub trophy
 
-<img src="https://github-profile-trophy.vercel.app/?username=PTarasyuk&theme=flat&no-bg=true" />
+<img src="https://github-profile-trophy.vercel.app/?username=PTarasyuk&theme=juicyfresh&no-bg=true" />
 
 ### Profile views counter 👁️‍🗨️
 
