@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Tarasyuk profile views](https://u8views.com/api/v1/github/profiles/57711130/views/day-week-month-total-count.svg)](https://u8views.com/github/PTarasyuk)
+
 <!--
 **PTarasyuk/PTarasyuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
