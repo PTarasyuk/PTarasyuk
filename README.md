@@ -15,20 +15,20 @@
 
 **Freelance**, IT Consultant (2010 - 04.2011)
 
-- Provided information and consulting services in the field of retail and wholesale trade automation.
-- Developed a mobile application for the automation of sales agents' work on the WinCE platform using C#.
+- Provided information and consulting services in the field of retail and wholesale trade automation
+- Developed a mobile application for the automation of sales agents' work (WinCE, C#)
 
 **VolWest Group Investment Company**, Head of IT Department (2009 - 2010)
 
-- Strategic planning and budgeting for the IT department.
-- Implemented the 1C "Complex Business Management" system to optimize business processes.
+- Strategic planning and budgeting for the IT department
+- Implemented the 1C "Complex Business Management" system to optimize business processes
 
 **SoftWest Group** (VolWest Group), Co-Founder and Head of Developer (2004 - 2009)
 
-- Participated in strategic planning and development of the company.
+- Participated in strategic planning and development of the company
 - Development and support of software suite for the automation of retail and wholesale trade, distribution. (Delphi, Firebase/SQL)
 
-*Previous work experience as a system administrator and software engineer in the companies "Agrokontrakt" and "Nash Kray" from 2001 to 2004.*
+*Previous work experience as a system administrator and software engineer in the companies "Agrokontrakt" and "Nash Kray" from 2001 to 2004*
 
 ## Education
 
