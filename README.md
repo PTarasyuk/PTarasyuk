@@ -34,8 +34,8 @@ DevOps Engineer with a strong commitment to Lifelong Learning, bringing over 20 
 
 ## Education
 
-**IT Academy at the State University of Management**, Moscow RF, e-MBI (Electronic Master of Business Informatics), 2008 (did not complete)
-**Volyn National University**, Lutsk UA, Mathematical (Informatics), 1996 - 2002
+- **IT Academy at the State University of Management**, Moscow RF, e-MBI (Electronic Master of Business Informatics), 2008 (did not complete)
+- **Volyn National University**, Lutsk UA, Mathematical (Informatics), 1996 - 2002
 
 ### My stats ⭐
 
