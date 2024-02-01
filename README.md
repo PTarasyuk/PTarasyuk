@@ -9,6 +9,8 @@
 
 ## Professional Profile
 
+DevOps Engineer with a strong commitment to Lifelong Learning, bringing over 20 years of diverse professional expirience into the tech indastry. Transitioned to DevOps through dedicated self-study and practical projects, demonstrating adaptability and continuous skill enhancement. Skilled in automating deployments, improving systems infrastructure, and promoting a culture of CI/CD with a keen interest in CloudNative (AWS, GCP) and IaC (Terraform).
+
 ## Work Experience
 
 **D-Team**, Founder & CEO (2011 - Present)
