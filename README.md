@@ -9,7 +9,7 @@
 
 ## Professional Profile
 
-DevOps Engineer with a strong commitment to Lifelong Learning, bringing over 20 years of diverse professional experience into the tech industry. Transitioned to DevOps through dedicated self-study and practical projects, demonstrating adaptability and continuous skill enhancement. Skilled in automating deployments, improving systems infrastructure, and promoting a culture of CI/CD with a keen interest in CloudNative (AWS, GCP) and IaC (Terraform).
+DevOps Engineer with a strong commitment to Lifelong Learning, bringing over 20 years of diverse professional experience into the tech industry. Transitioned to DevOps through dedicated self-study and practical projects, demonstrating adaptability and continuous skill enhancement. Skilled in automating deployments, improving systems infrastructure, and promoting a culture of CI/CD with a keen interest in CloudNative (AWS, GCP) and IaC (Terraform). Actively expanding expertise in modern orchestration and automation practices, including a focused learning path on Kubernetes, GitOps methodologies, particularly with Flux and ArgoCD, to enhance deployment strategies and operational efficiency.
 
 ## Work Experience
 
