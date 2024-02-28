@@ -17,7 +17,7 @@ DevOps Engineer with a strong commitment to Lifelong Learning, bringing over 20 
 
 - Data Collection Automation: *Developed and implemented Python scrapers and parsers to automate the collection of potential client information from public web resources. Integrated data into PostgreSQL, significantly enhancing marketing strategy efficiency* (Python, SQLite, PostgreSQL).
 - E-Mail & SMS Marketing: *Implemented an automated system for email and SMS broadcasting to effectively engage clients, resulting in increased responses and improved conversion rates*.
-- Cloud Resources Optimization: *Efficiently utilized AWS (S3, EC2, RDS) and Terraform for optimizing cloud resource usage, reducing costs, and enhancing performance through automation with AWS Lambda* (AWS Serverless and IaC Terraform).
+- Cloud Resources Optimization: *Efficiently utilized AWS (S3, EC2, RDS) and Terraform for optimizing cloud resource usage, reducing costs, and enhancing performance through automation with AWS Lambda* (Docker, AWS Serverless and IaC Terraform).
 - Document Workflow Automation: *Deployed Google Workspace for automating document workflow processes, improving project management and internal communication* (Google Workspace).
 - Version Control & CI/CD: *Actively used GitLab and GitHub for organizing Git repositories and automating development processes through CI/CD, ensuring high code quality and development efficiency* (GitLab, GitHub).
 
