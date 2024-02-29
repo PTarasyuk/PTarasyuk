@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there, I'm Pavlo Tarasiuk 👋 👨🏼‍💻
 
 :mailbox: Reach me out!
 
