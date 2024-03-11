@@ -31,7 +31,7 @@ DevOps Engineer with a strong commitment to Lifelong Learning, bringing over 20 
 - Strategic planning and budgeting for the IT department
 - Implemented the 1C "Complex Business Management" system to optimize business processes
 
-**SoftWest Group** (VolWest Group), Co-Founder and Head of Developer (2004 - 2009)
+**SoftWest Group** (VolWest Group), Head of Programming & Co-Founder (2004 - 2009)
 
 - Participated in strategic planning and development of the company
 - Development and support of software suite for the automation of retail and wholesale trade, distribution. (Delphi, Firebase/SQL)
